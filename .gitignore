@@ -1,10 +1,12 @@
 # Environment variable
 .env
+.envrc
 
 # Thunder tests
 thunder-tests/
 
 # Binaries for programs and plugins
+bin/
 *.exe
 *.exe~
 *.dll
