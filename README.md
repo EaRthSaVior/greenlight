@@ -1,4 +1,4 @@
-# greenlight
+## Greenlight
 
 Greenlight — a JSON API for retrieving and managing information about movies
 
@@ -18,3 +18,7 @@ Greenlight — a JSON API for retrieving and managing information about movies
 | POST   | /v1/tokens/authentication | Generate a new authentication token             |
 | POST   | /v1/tokens/password-reset | Generate a new password-reset token             |
 | GET    | /debug/vars               | Display application metrics                     |
+
+## Reference
+
+Let’s Go Further by Alex Edwards
