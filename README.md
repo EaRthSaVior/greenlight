@@ -18,6 +18,9 @@ Greenlight — a JSON API for retrieving and managing information about movies
 | POST   | /v1/tokens/authentication | Generate a new authentication token             |
 | POST   | /v1/tokens/password-reset | Generate a new password-reset token             |
 | GET    | /debug/vars               | Display application metrics                     |
+| POST   | /v1/tokens/passwordreset  | Generate a new password reset token             |
+| PUT    | /v1/users/password        | Update the password for a specific user         |
+| POST   | /v1/tokens/activation     | Generate a new activation token                 |
 
 ## Reference
 
